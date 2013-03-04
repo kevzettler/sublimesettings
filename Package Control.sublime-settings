@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Git",
+		"jQuery Snippets pack",
+		"Package Control",
+		"Sass",
+		"Search Stack Overflow",
+		"sublemacspro",
+		"SublimeLinter",
+		"ZenCoding"
+	]
+}

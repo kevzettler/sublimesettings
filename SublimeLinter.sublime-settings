@@ -1,0 +1,6 @@
+{
+ "javascript_linter": "jshint",
+ "sublimelinter_delay": "0.2",
+ "sublimelinter_mark_style": "fill",
+ "sublimelinter_disable":["css"]
+}
